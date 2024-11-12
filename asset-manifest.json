@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tabs-navigation-using-reactjs/static/css/main.ac25a3d3.css",
+    "main.js": "/tabs-navigation-using-reactjs/static/js/main.890a4569.js",
+    "static/js/453.45d698d3.chunk.js": "/tabs-navigation-using-reactjs/static/js/453.45d698d3.chunk.js",
+    "index.html": "/tabs-navigation-using-reactjs/index.html",
+    "main.ac25a3d3.css.map": "/tabs-navigation-using-reactjs/static/css/main.ac25a3d3.css.map",
+    "main.890a4569.js.map": "/tabs-navigation-using-reactjs/static/js/main.890a4569.js.map",
+    "453.45d698d3.chunk.js.map": "/tabs-navigation-using-reactjs/static/js/453.45d698d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac25a3d3.css",
+    "static/js/main.890a4569.js"
+  ]
+}
